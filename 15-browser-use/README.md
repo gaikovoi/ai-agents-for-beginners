@@ -41,7 +41,7 @@ This lesson includes one notebook tutorial:
 Install the packages used in the notebook:
 
 ```bash
-pip install browser_use langchain-openai playwright python-dotenv
+pip install browser_use playwright python-dotenv
 playwright install chromium
 ```
 
